@@ -1,0 +1,275 @@
+{
+  "eyebrow": "Discover the power of",
+  "title": "Extract Any Web Data in Minutes \u2014 No Selectors, No Code. Act now to outpace site changes with AI that adapts for you.",
+  "subtitle": "Stop wrestling with brittle CSS/XPath, blocked requests, and messy HTML. Describe the data you want in plain English (\u201cproduct name, price, rating\u201d), and our AI finds and extracts it across changing layouts\u2014so you launch faster, maintain less, and scale with confidence.",
+  "primaryCta": {
+    "text": "Start your 14\u2011day free trial",
+    "href": "/signup?ref=hero"
+  },
+  "secondaryCta": {
+    "text": "Watch the 2\u2011minute demo",
+    "href": "/demo"
+  },
+  "features": [
+    {
+      "title": "Tell it what you want, not how to get it",
+      "description": "Skip CSS and XPath. Type natural-language prompts like \u201cgrab product name, price, rating, and image URL\u201d and get a clean dataset\u2014no technical setup required.",
+      "icon": "chat-bubble-check",
+      "customIcon": "data:image/png;base64,https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-n6g9L54h3nPHkTLp60DUzZT1ZCPvp1"
+    },
+    {
+      "title": "Resilient to layout changes",
+      "description": "When pages shift, your scrapes shouldn\u2019t break. Our AI understands patterns, not just selectors\u2014cut maintenance hours and keep data flowing even as sites evolve.",
+      "icon": "shield-sync",
+      "customIcon": "data:image/png;base64,https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-HCWhW8RcLfdxNaEmCZlCfE1pwDcJ5B"
+    },
+    {
+      "title": "Built for the modern web",
+      "description": "Navigate dynamic sites, pagination, infinite scroll, and content behind logins using secure browser automation and smart throttling for human-like behavior.",
+      "icon": "globe-lightning",
+      "customIcon": "data:image/png;base64,https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-fSpWMj8I5yRRVAzXTWu0N96OlMH8rP"
+    },
+    {
+      "title": "From raw pages to ready-to-use data",
+      "description": "Automatically structure and validate results, dedupe entries, and export to CSV, JSON, Google Sheets, webhooks, or your database via API.",
+      "icon": "table-check",
+      "customIcon": "data:image/png;base64,https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-EZifLQ5xGmQbfh9r6XC1CzWHH6725i"
+    },
+    {
+      "title": "Schedule, monitor, and scale",
+      "description": "Run on a schedule, trigger via API, and get alerts on failures. Horizontal scaling handles small projects to large crawls without babysitting.",
+      "icon": "calendar-bolt",
+      "customIcon": "data:image/png;base64,https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-ogyX0N0NBZACDSvc1G8QcAoBmLr6XY"
+    },
+    {
+      "title": "Compliance and privacy by design",
+      "description": "Respect site rules you configure, manage credentials securely, and maintain auditable runs. Encryption in transit and at rest keeps your data safe.",
+      "icon": "lock-shield",
+      "customIcon": "data:image/png;base64,https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-CIDYNIS4bMLdwG8UOg7faDo5BhSgWh"
+    }
+  ],
+  "theme": "dark-glossy",
+  "socialProof": {
+    "testimonials": [
+      {
+        "name": "Maya R.",
+        "role": "Product Manager, eCommerce",
+        "company": "Nordline",
+        "quote": "We went from days of selector-tweaking to launching new scrapes in under an hour. The AI survived multiple site redesigns without touching a thing.",
+        "rating": "5"
+      },
+      {
+        "name": "Daniel K.",
+        "role": "Data Lead",
+        "company": "Quantive Labs",
+        "quote": "Accuracy was shockingly good. We dropped maintenance by ~80% and finally scaled to millions of rows without constant breakage.",
+        "rating": "5"
+      },
+      {
+        "name": "Lena P.",
+        "role": "Founder",
+        "company": "PricePilot",
+        "quote": "I don\u2019t code and still shipped a production-grade price tracker over a weekend. The scheduling and Sheets export are lifesavers.",
+        "rating": "5"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Time to first dataset",
+        "value": "< 60 minutes"
+      },
+      {
+        "label": "Maintenance reduction",
+        "value": "Up to 80% less selector fixing"
+      },
+      {
+        "label": "Uptime",
+        "value": "99.9% platform uptime"
+      },
+      {
+        "label": "Scale",
+        "value": "Millions of pages/month capacity"
+      }
+    ],
+    "logos": [
+      "/assets/logos/acme.svg",
+      "/assets/logos/nordline.svg",
+      "/assets/logos/quantive.svg",
+      "/assets/logos/pricepilot.svg"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How is this different from traditional web scrapers?",
+      "answer": "Traditional tools rely on fragile CSS/XPath selectors that break when layouts change. Our AI understands the content you want (e.g., product name, price, rating) and adapts across different templates and redesigns\u2014so you spend less time fixing and more time shipping."
+    },
+    {
+      "question": "Do I need coding skills to use this?",
+      "answer": "No. Describe your target data in plain English, paste URLs, and click run. For power users, low\u2011code options let you chain steps, add conditions, or integrate with your stack via API and webhooks."
+    },
+    {
+      "question": "Can it handle dynamic sites, logins, and pagination?",
+      "answer": "Yes. We use secure browser automation to render JavaScript-heavy pages, manage sessions, handle infinite scroll, follow pagination, and access authenticated areas you provide credentials for."
+    },
+    {
+      "question": "Is web scraping legal and compliant?",
+      "answer": "Scraping legality depends on the site and jurisdiction. We provide controls to respect robots.txt and rate limits you configure, credential vaults, and audit logs. Always review a site\u2019s terms and consult counsel for your specific use case."
+    },
+    {
+      "question": "How accurate is the AI, and what if it gets something wrong?",
+      "answer": "Most users see high field\u2011match accuracy out of the box. You can guide the AI with examples, enforce validation rules, and use review workflows to catch edge cases. Retries and auto\u2011corrections improve results over time."
+    }
+  ],
+  "about": "We\u2019re a team of data engineers and ML practitioners who\u2019ve spent years building large\u2011scale crawlers and pipelines for analytics, pricing intelligence, and market research. After watching teams burn time on brittle selectors and constant fixes, we built an AI\u2011first approach that lets anyone turn web pages into structured, reliable datasets\u2014fast. Our platform combines enterprise\u2011grade browser automation, modern LLMs, and battle\u2011tested infrastructure to deliver accuracy, resilience, and scale without the usual complexity.",
+  "contact": {
+    "email": "hello@aiscraper.app",
+    "phone": "+1 (415) 555\u20110134",
+    "address": "548 Market St, San Francisco, CA 94104"
+  },
+  "seo": {
+    "seo_title": "AI Web Scraping Platform | No-Code Data Extraction SaaS",
+    "meta_description": "AI web scraping that adapts to site changes\u2014no code, no selectors. Describe data in plain English and our data extraction platform bypasses brittle CSS/XPath.",
+    "keywords": [
+      "AI web scraping",
+      "No-code data extraction",
+      "Web scraping SaaS",
+      "Low-code web scraping",
+      "CSS/XPath-free scraping",
+      "Dynamic website scraping",
+      "Scalable web data extraction"
+    ],
+    "og_title": "Extract Any Web Data in Minutes \u2014 No Selectors, No Code",
+    "og_description": "Stop wrestling with brittle CSS/XPath and blocked requests. Describe the data you need (\"product name, price, rating\") and our AI web scraping platform adapts to changing layouts\u2014so you launch faster, maintain less, and scale with confidence."
+  },
+  "design": {
+    "color_palette": {
+      "primary": "#2563EB",
+      "secondary": "#06B6D4",
+      "accent": "#F59E0B",
+      "neutral": "#0F172A"
+    },
+    "visual_mood": {
+      "overall_feeling": "Trustworthy, intelligent, efficient, and approachable.",
+      "style_keywords": [
+        "clean",
+        "data-centric",
+        "minimal",
+        "friendly-technical",
+        "high-contrast",
+        "credible",
+        "modern",
+        "accessible"
+      ],
+      "target_emotion": "Confidence to start extracting data today, with curiosity about AI-assisted power and ease."
+    },
+    "typography_style": "Use a modern, highly readable sans for general audiences plus a monospaced font for technical elements.\n- Headings: Space Grotesk or Sora (600\u2013700 weight) for a contemporary tech feel without being intimidating.\n- Body: Inter or IBM Plex Sans (400\u2013500) for excellent legibility across UI and docs.\n- Code/UI values: JetBrains Mono or IBM Plex Mono for selectors, JSON, and examples.\n- Base sizes: 16\u201318 px body; 1.25\u20131.5 line-height; scale 1.125 for responsive type.\n- Use tabular numerals for metrics and pricing tables.\n- Ensure WCAG AA contrast; avoid ultra-light weights for critical copy.",
+    "layout_approach": "Structure for conversion, clarity, and convention in AI/data tools:\n1) Hero (above the fold)\n- Clear promise: \u201cAI\u2011Powered Web Data Extraction \u2014 turn any website into structured data.\u201d\n- Short subhead: emphasize no-code/low-code and compliance.\n- Primary CTA (accent): \u201cStart free\u201d and secondary CTA (ghost): \u201cWatch 60\u2011sec demo\u201d.\n- Trust signals: customer logos, rating badges, and quick stats (e.g., jobs run, success rate).\n- Optional code-free visual: a simple flow from URL \u2192 AI \u2192 CSV/JSON/Sheet.\n\n2) Social proof & outcomes\n- Short testimonial carousel with role labels (PM, Analyst, Engineer) to appeal to a general audience.\n- Real metrics (time saved, accuracy) with tabular numerals.\n\n3) How it works (3\u20134 steps)\n- Stepper cards: Enter URL(s) \u2192 Choose template/AI extractor \u2192 Preview & clean \u2192 Schedule & export.\n- Inline micro-demos or GIFs (<8s, with reduced-motion support).\n\n4) Templates & connectors\n- Searchable template grid (e.g., ecommerce product list, job posts, news articles).\n- Integrations: Google Sheets, CSV/JSON, API, Zapier/Make/n8n, BigQuery/Snowflake; show logos.\n\n5) Live playground/interactive demo\n- Paste a URL, run a safe sample extraction, preview table/JSON, then gate export behind signup.\n\n6) Compliance & ethics section\n- Plain-language notes on respecting robots.txt, ToS, and consent; link to policy and legal FAQ.\n- Security: encryption, audit logs, role-based access, data residency; status page link.\n\n7) Pricing\n- Simple tiers with clear usage caps (pages/month, concurrent runs, retention, proxies).\n- Toggle monthly/annual, money-back or free trial clarity; comparison checklist.\n\n8) FAQ + Docs\n- Expanders for common barriers (CAPTCHAs, pagination, anti\u2011bot, dynamic content, rate limits).\n- Prominent docs/search; \u201ccopy snippet\u201d buttons for API examples.\n\n9) Footer\n- Legal, Privacy, Terms, Compliance, DPA, SOC/ISO (if applicable), status, contact.\n\nGlobal patterns\n- Sticky top nav with anchored CTAs; highlight Docs and Pricing.\n- Onboarding modal after signup: 3-step checklist and a sample project wizard.\n- Empty states: educational with templates and a short video.\n- Performance: skeleton loaders for tables; optimistic UI for job queue.\n- Offer dark mode; remember preference.\n\nConversion principles baked in\n- One primary action per screen; secondary de-emphasized.\n- Frictionless signup (email + SSO); progressive profiling later.\n- Risk-reversal (free tier, no credit card if possible, transparent limits).\n- Urgency without pressure: \u201cX free runs left this month\u201d in-app.\n- Contextual proof near CTAs (logos, testimonials, quick stats).",
+    "imagery_style": "Data-first, minimal, and credible.\n- Use clean UI mockups and short micro-demos over abstract art.\n- Diagrammatic illustrations of flows (URL \u2192 AI model \u2192 structured table \u2192 export).\n- Light 3D geometric shapes or isometric nodes are acceptable but secondary to real previews.\n- Show real outputs: tables, JSON viewers, field mappers. Provide zoomable, high-DPI screenshots.\n- Iconography: simple line/duotone with clear metaphors (selector, schedule, export, API).\n- Avoid hacker/terminal clich\u00e9s; prefer bright, professional environments with diverse users.",
+    "ui_elements": [
+      "Primary CTA button in accent (#F59E0B) with strong contrast and large hit area (min 44x44px)",
+      "Secondary CTA as ghost or outline using primary (#2563EB)",
+      "Sticky global nav with clear Pricing, Templates, Docs, and Start Free",
+      "Segmented control: No-code | Low-code | API to address different user types",
+      "Template gallery with search, filters (site type, pagination, dynamic content), and tags",
+      "Interactive playground: URL input, run button, table/JSON preview, export gate",
+      "Field mapper UI (drag/drop) with AI-suggested selectors and confidence badges",
+      "Scheduler with cron presets and timezone selector",
+      "Job queue with statuses (Queued/Running/Complete/Failed) and retry actions",
+      "JSON/table viewer with copy-to-clipboard and download (CSV/JSON/Sheets)",
+      "Comparison table (vs. manual scraping, vs. competitors) with checkmarks and notes",
+      "Testimonial carousel with names, roles, and company logos",
+      "Trust badges: security, compliance notes, uptime/status link",
+      "Cookie-cutter onboarding checklist (Create project \u2192 Pick template \u2192 First run \u2192 Schedule)",
+      "Inline tooltips and ? helpers that open contextual docs",
+      "Toast notifications for success/error; non-blocking, with auto-dismiss and undo where possible",
+      "Empty states with sample data and a 60-second embedded demo",
+      "Command palette (\u2318K/CTRL+K) for power users: create project, run job, open docs",
+      "In-product AI assistant for selector help and troubleshooting",
+      "Accessible form controls with visible labels, clear errors, and helpful inline validation",
+      "Dark mode toggle with saved preference; ensure contrast remains AA/AAA for text",
+      "Keyboard-accessible menus, dialogs, and steppers with focus trapping and ESC close",
+      "Loading states: skeleton rows for tables and progress bars for long extractions",
+      "Exit-intent or delayed modal offering a sandbox run or template download",
+      "Pricing CTA ribbons (Most popular) used sparingly and announced to screen readers"
+    ]
+  },
+  "customImages": {
+    "hero": "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-JVzVcY7KvUKufwm26UbT13Fe8aDHOA",
+    "feature_icons": [
+      "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-n6g9L54h3nPHkTLp60DUzZT1ZCPvp1",
+      "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-HCWhW8RcLfdxNaEmCZlCfE1pwDcJ5B",
+      "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-fSpWMj8I5yRRVAzXTWu0N96OlMH8rP",
+      "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-EZifLQ5xGmQbfh9r6XC1CzWHH6725i",
+      "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-ogyX0N0NBZACDSvc1G8QcAoBmLr6XY",
+      "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-CIDYNIS4bMLdwG8UOg7faDo5BhSgWh"
+    ],
+    "background_pattern": "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-YmsXqFI5xTu9Gj8VmASrd5YjhS4lm5",
+    "logo": "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-Cjz1PALLaGQHowcZE235G5KlRg70hJ",
+    "social_media": {
+      "og_image": "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-By0xropMhWCYYiiH798dDXwwFRt85B",
+      "twitter_card": "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-IYwZS2geXszSeCBn9OfHXFDW11SKB6",
+      "linkedin_post": "https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-21LuHiPkfndBXMKH4eS3opWPeQ1NBR"
+    }
+  },
+  "businessAnalysis": {
+    "business_type": "AI-powered web scraping and data extraction SaaS platform (no-code/low-code)",
+    "target_audience": "Non-technical business users (marketers, analysts, founders) and technical users (developers, data teams) at startups, SMBs, and agencies needing web data at scale",
+    "business_model": "SaaS (primarily B2B and prosumer). Tiered subscriptions with usage-based limits; pay-as-you-go overages; optional API and proxy add-ons; potential freemium/trial.",
+    "key_value_props": [
+      "AI-driven auto-extraction that identifies page structures without CSS/XPath",
+      "No-code, beginner-friendly setup\u2014\u201ca scraper for anyone\u201d",
+      "Handles dynamic, JavaScript-heavy sites with reliability",
+      "Integrated proxy management and IP rotation for anti-bot evasion",
+      "Cloud-based scale with scheduling, queues, and monitoring",
+      "Structured exports (CSV, JSON, Excel) plus REST API/webhooks",
+      "Prebuilt templates/recipes for popular sites to launch quickly",
+      "Data cleaning, validation, and deduplication for higher quality",
+      "Change detection and alerts for price/content monitoring",
+      "Fast time-to-value with low setup and minimal maintenance"
+    ],
+    "competitive_advantages": [
+      "Accessible UX that serves both non-technical users and developers in one platform",
+      "AI models that auto-adapt to layout changes, reducing brittle selectors and maintenance",
+      "All-in-one stack (rendering, proxies, anti-bot, scheduling) lowers integration burden",
+      "Library of ready-to-use site templates/flows for rapid deployment",
+      "Native integrations with spreadsheets and automation tools (e.g., Google Sheets, Airtable, Zapier) to operationalize data",
+      "Scalable cloud infrastructure with observability (logs, retries, alerts) for reliability",
+      "Compliance-oriented controls (rate limits, domain rules) to reduce risk",
+      "Flexible API enabling custom pipelines and embedding into workflows"
+    ],
+    "industry_keywords": [
+      "web scraping",
+      "data extraction",
+      "no-code scraping",
+      "low-code automation",
+      "AI extraction",
+      "structured data",
+      "ETL",
+      "data pipeline",
+      "crawler",
+      "headless browser",
+      "JavaScript rendering",
+      "Puppeteer",
+      "Playwright",
+      "Selenium",
+      "rotating proxies",
+      "anti-bot evasion",
+      "CAPTCHA solving",
+      "rate limiting",
+      "pagination",
+      "REST API",
+      "webhooks",
+      "CSV/JSON/Excel export",
+      "scheduling",
+      "cloud scraping",
+      "scraping-as-a-service",
+      "data-as-a-service (DaaS)",
+      "templates/recipes",
+      "change detection",
+      "price monitoring",
+      "competitive intelligence"
+    ]
+  },
+  "aiEnhanced": true,
+  "heroImage": "data:image/png;base64,https://flf9sqjrdgau3cgl.public.blob.vercel-storage.com/upload-JVzVcY7KvUKufwm26UbT13Fe8aDHOA"
+}
