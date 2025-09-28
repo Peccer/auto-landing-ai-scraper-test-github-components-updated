@@ -6,7 +6,10 @@
   "plugins": ["tailwindcss"],
   "rules": {
     "tailwindcss/classnames-order": "warn",
-    "tailwindcss/no-custom-classname": "warn"
+    "tailwindcss/no-custom-classname": "warn",
+    "react/no-unescaped-entities": ["error", {
+      "forbid": [">", "}"]
+    }]
   },
   "settings": {
     "tailwindcss": {
